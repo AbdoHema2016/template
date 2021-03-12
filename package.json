@@ -1,0 +1,34 @@
+{
+  "name": "@ajaysidhu/react-native-template",
+  "version": "1.0.1",
+  "description": "It is a minimalist React Native template with preconfigured common set of packages to start a new app.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaykumar97/react-native-template.git"
+  },
+  "keywords": [
+    "template",
+    "boilerplate",
+    "starter",
+    "react-native",
+    "react",
+    "native"
+  ],
+  "author": "Ajay Kumar (https://ajay-kumar.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajaykumar97/react-native-template/issues"
+  },
+  "homepage": "https://github.com/ajaykumar97/react-native-template#readme",
+  "dependencies": {
+    "react-native-localization": "^2.1.6"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore: release v${version}"
+    }
+  }
+}
