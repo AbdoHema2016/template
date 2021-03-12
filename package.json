@@ -1,5 +1,5 @@
 {
-  "name": "@ajaysidhu/react-native-template",
+  "name": "@AbdoHema2016/template",
   "version": "1.0.1",
   "description": "It is a minimalist React Native template with preconfigured common set of packages to start a new app.",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajaykumar97/react-native-template.git"
+    "url": "git@github.com:AbdoHema2016/template.git"
   },
   "keywords": [
     "template",
@@ -17,12 +17,12 @@
     "react",
     "native"
   ],
-  "author": "Ajay Kumar (https://ajay-kumar.dev/)",
+  "author": "Abdo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ajaykumar97/react-native-template/issues"
+    "url": "https://github.com/AbdoHema2016/template.git/issues"
   },
-  "homepage": "https://github.com/ajaykumar97/react-native-template#readme",
+  "homepage": "https://github.com/AbdoHema2016/template#readme",
   "dependencies": {
     "react-native-localization": "^2.1.6"
   },
